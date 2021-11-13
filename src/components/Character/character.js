@@ -5,7 +5,7 @@ import "./character.css";
 function Character() {
   return (
     <div>
-      <img src={charImage} alt="Character" id="char"></img>
+      <img src={charImage} alt="Character" id="charOne"></img>
     </div>
   );
 }

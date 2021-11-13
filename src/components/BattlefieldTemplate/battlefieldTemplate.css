@@ -1,0 +1,24 @@
+#view {
+  z-index: 1;
+}
+
+.partyOne {
+  position: absolute;
+  width: 20%;
+  top: 15%;
+  left: 27%;
+}
+
+.partyTwo {
+  position: absolute;
+  width: 20%;
+  top: 27%;
+  left: 15%;
+}
+
+.partyThree {
+  position: absolute;
+  width: 20%;
+  top: 40%;
+  left: 2%;
+}
